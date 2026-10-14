@@ -1,0 +1,10 @@
+{
+  "description": "This AI security gateway platform safeguards sensitive data by detecting and preventing prompt attacks, ensuring secure communication for users and organizations.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
